@@ -7,8 +7,9 @@ Utilizing LazyVim for NeoVim configuration.
 - riggrep
 - fd
 - luarokcs
+- lazygit
 
 ```
-brew install ripgrep fd luarokcs
+brew install ripgrep fd luarokcs lazygit
 ```
 
