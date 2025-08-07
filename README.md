@@ -4,9 +4,8 @@
 - fzf
 - ripgrep
 - fd
+- lazygit
 
 ```
-brew install fzf ripgrep fd
-```
-```
+brew install fzf ripgrep fd lazygit
 ```
