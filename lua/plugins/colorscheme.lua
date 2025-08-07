@@ -1,12 +1,12 @@
 return {
   -- add gruvbox
-  { "ellisonleao/gruvbox.nvim" }
+  { "ellisonleao/gruvbox.nvim" },
 
-  -- Configure LazyVim ti load gruvbox
+  -- Configure LazyVim to load gruvbox
   {
     "LazyVim/LazyVim",
     opts = {
       colorscheme = "gruvbox",
     },
-  }
+  },
 }
