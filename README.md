@@ -1,4 +1,12 @@
-# 💤 LazyVim
+# nvim setup 2025
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+## Requirements
+- fzf
+- ripgrep
+- fd
+
+```
+brew install fzf ripgrep fd
+```
+```
+```
