@@ -8,10 +8,10 @@ return {
     opts ={},
   },
   -- Configure LazyVim to load gruvbox
-  {
-    "LazyVim/LazyVim",
-    opts = {
-      colorscheme = "wildcharm",
-    },
-  },
+  -- {
+    -- "LazyVim/LazyVim",
+    -- opts = {
+      -- colorscheme = "wildcharm",
+    -- },
+  -- },
 }
