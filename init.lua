@@ -2,4 +2,5 @@
 require("config.lazy")
 
 vim.opt.colorcolumn = "80,100"
-vim.cmd [[highlight ColorColumn cterbg=lightgrey guibg=lightgrey]]
+vim.opt.termguicolor = true -- Follow terminal colour scheme
+vim.cmd [[highlight ColorColumn ctermbg=lightgrey guibg=lightgrey]]
